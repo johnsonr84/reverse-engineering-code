@@ -10,7 +10,7 @@ Tutorial walkthrough of application with Node.js code-base that uses Sequelize a
   * [Description](#Description)
   * [User Story](#UserStory)
   * [Project URL](#Project-URL)
-  * [Deplyment](#Deployment)
+  * [Project Google Drive Link](#Project-Google-Drive-Link)
   * [Mock-up](#Mock-up)
   * [Technologies](#Technologies)
   * [Installation](#Installation)
@@ -35,25 +35,16 @@ Tutorial walkthrough of application with Node.js code-base that uses Sequelize a
   ## Project URL
   https://github.com/johnsonr84/reverse-engineering-code/ 
 
-  ## Deployment
-  N/A 
+  ## Project Google Drive Link
+  [Click Here](https://drive.google.com/file/d/1VLs7GzMZiQoDxsZM1PPDVC2A4RGzZ6uC/view?usp=sharing) to view the tutorial
   
-
   ## Mock-Up
    <table>
     <tr>
-      <td>reverse-engineering-code screenshot</td>
+      <td>reverse-engineering-code demo</td>
     </tr>
     <tr>
-      <td><img src="" width=400px alt="screenshot of reverse-engineering-code"></td>
-    </tr>
-  </table>
-  <table>
-    <tr>
-      <td>reverse-engineering-code screenshot</td>
-    </tr>
-     <tr>
-      <td><img src="" width=400px alt="screenshot of reverse-engineering-code"></td>
+      <td><img src="public/img/demo.gif" width=400px alt="gif file of reverse-engineering-code"></td>
     </tr>
   </table>
 
