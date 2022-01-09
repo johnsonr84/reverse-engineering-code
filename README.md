@@ -1,4 +1,6 @@
-# reverse-engineering-code
+<h1 align="center"><a href="https://fathomless-journey-02992.herokuapp.com/"> Reverse Engineering Code 🖥️</a></h1>
+  
+## Description 
 Tutorial walkthrough of application with Node.js code-base that uses Sequelize and Passport
 
   [![github-follow](https://img.shields.io/github/followers/johnsonr84?label=Follow&logoColor=lightgrey&style=social)](https://github.com/johnsonr84)
@@ -8,29 +10,17 @@ Tutorial walkthrough of application with Node.js code-base that uses Sequelize a
 
   ## Table of Contents 
   * [Description](#Description)
-  * [User Story](#UserStory)
   * [Project URL](#Project-URL)
   * [Project Google Drive Link](#Project-Google-Drive-Link)
-  * [Mock-up](#Mock-up)
-  * [Technologies](#Technologies)
+  * [Demo/Screenshots](#Demo/Screenshots)
   * [Installation](#Installation)
   * [Usage](#Usage)
   * [Credits](#Credits)
   * [License](#License)
-  * [Features](#Features)
-  * [Tests](#Tests)
   * [Resources](#Resources)
   * [Contact](#Contact)
-  * [Designed and built by](#Designed-and-built-by)
+  * [Author](#Author)
   #
-  
-  ## Description 
-  A tutorial explaining every file and its purpose of a starter code provided.
-
-  ## UserStory 
-  AS A developer
-  I WANT a walk-through of the codebase
-  SO THAT I can use it as a starting point for a new project
 
   ## Project URL
   https://github.com/johnsonr84/reverse-engineering-code/ 
@@ -38,7 +28,7 @@ Tutorial walkthrough of application with Node.js code-base that uses Sequelize a
   ## Project Google Drive Link
   [Click Here](https://drive.google.com/file/d/1VLs7GzMZiQoDxsZM1PPDVC2A4RGzZ6uC/view?usp=sharing) to view the tutorial
   
-  ## Mock-Up
+  ## Demo/Screenshots
    <table>
     <tr>
       <td>reverse-engineering-code demo</td>
@@ -83,7 +73,7 @@ Tutorial walkthrough of application with Node.js code-base that uses Sequelize a
   ## Contact
   Email: robertcjohnson1984@gmail.com 
 
-  ## Designed and built by
+  ## Author
   Author(s): Rob Johnson  
 
   GitHub: https://github.com/johnsonr84/ 
