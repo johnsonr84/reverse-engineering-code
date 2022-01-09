@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://fathomless-journey-02992.herokuapp.com/"> Reverse Engineering Code 🖥️</a></h1>
+<h1 align="center"><a href="https://github.com/johnsonr84/reverse-engineering-code/"> Reverse Engineering Code 🖥️</a></h1>
   
 ## Description 
 Tutorial walkthrough of application with Node.js code-base that uses Sequelize and Passport
